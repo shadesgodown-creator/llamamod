@@ -881,6 +881,15 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "secondary_llama_block"
+    },
+    {
+      "name": "Llamafort",
+      "type": "structure",
+      "sortid": 85,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "llamafort"
     }
   ],
   "variable_elements": [],
