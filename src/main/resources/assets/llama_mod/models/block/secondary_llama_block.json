@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "llama_mod:blocks/llama_block_secondary2",
+    "up": "llama_mod:blocks/llama_block_secondary2",
+    "north": "llama_mod:blocks/llama_block_secondary",
+    "east": "llama_mod:blocks/llama_block_secondary",
+    "south": "llama_mod:blocks/llama_block_secondary",
+    "west": "llama_mod:blocks/llama_block_secondary",
+    "particle": "llama_mod:blocks/llama_block_secondary2"
+  }
+}
