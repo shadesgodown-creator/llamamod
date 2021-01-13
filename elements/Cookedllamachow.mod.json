@@ -9,7 +9,7 @@
     "rarity": "COMMON",
     "specialInfo": [],
     "creativeTab": {
-      "value": "FOOD"
+      "value": "CUSTOM:Llamacreativetab"
     },
     "stackSize": 64,
     "nutritionalValue": 40,
