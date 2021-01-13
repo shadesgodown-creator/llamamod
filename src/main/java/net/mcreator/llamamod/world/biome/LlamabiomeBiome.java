@@ -21,8 +21,8 @@ import net.minecraft.world.biome.DefaultBiomeFeatures;
 import net.minecraft.world.biome.Biome;
 import net.minecraft.entity.EntityType;
 import net.minecraft.entity.EntityClassification;
-import net.minecraft.block.Blocks;
 
+import net.mcreator.llamamod.block.SecondaryLlamaBlockBlock;
 import net.mcreator.llamamod.block.LlamablockBlock;
 import net.mcreator.llamamod.LlamaModModElements;
 
@@ -51,7 +51,7 @@ public class LlamabiomeBiome extends LlamaModModElements.ModElement {
 			super(new Biome.Builder().downfall(0.5f).depth(0.1f).scale(0.2f).temperature(0.5f).precipitation(Biome.RainType.RAIN)
 					.category(Biome.Category.ICY).waterColor(-103).waterFogColor(-103)
 					.surfaceBuilder(SurfaceBuilder.DEFAULT, new SurfaceBuilderConfig(LlamablockBlock.block.getDefaultState(),
-							Blocks.STONE.getDefaultState(), Blocks.STONE.getDefaultState())));
+							SecondaryLlamaBlockBlock.block.getDefaultState(), SecondaryLlamaBlockBlock.block.getDefaultState())));
 			setRegistryName("llamabiome");
 			DefaultBiomeFeatures.addCarvers(this);
 			DefaultBiomeFeatures.addMonsterRooms(this);

@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "llama_mod:block/secondary_llama_block"
+    }
+  }
+}

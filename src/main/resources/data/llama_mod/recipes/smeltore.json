@@ -4,9 +4,9 @@
   "experience": 1,
   "cookingtime": 200,
   "ingredient": {
-    "item": "llama_mod:llamaore"
+    "item": "llama_mod:unknown_element"
   },
   "result": {
-    "item": "llama_mod:llamaingot"
+    "item": "llama_mod:unknown_element"
   }
 }

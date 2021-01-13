@@ -7,7 +7,7 @@
       "value": "CUSTOM:Llamablock"
     },
     "undergroundBlock": {
-      "value": "Blocks.STONE#0"
+      "value": "CUSTOM:SecondaryLlamaBlock"
     },
     "treeType": 0,
     "vanillaTreeType": "Default",

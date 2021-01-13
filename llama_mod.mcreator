@@ -872,6 +872,15 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "grinder"
+    },
+    {
+      "name": "SecondaryLlamaBlock",
+      "type": "block",
+      "sortid": 84,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "secondary_llama_block"
     }
   ],
   "variable_elements": [],
@@ -903,6 +912,7 @@
       "item.llama_mod.llama_stone_sword": "LlamaStone Sword",
       "item.llama_mod.llamastone_dust_pickaxe": "Llamastone_dust Pickaxe",
       "itemGroup.tabllamacreativetab": "Llama Mod",
+      "block.llama_mod.secondary_llama_block": "Llamablock",
       "block.llama_mod.llamablock": "Llamablock",
       "item.llama_mod.llama_stone_armor_helmet": "LlamaStone Helmet",
       "advancements.manaseswimer.descr": "swimng in manays",
