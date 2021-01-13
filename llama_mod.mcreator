@@ -872,6 +872,15 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "grinder"
+    },
+    {
+      "name": "Llama",
+      "type": "loottable",
+      "sortid": 84,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "llama"
     }
   ],
   "variable_elements": [],
