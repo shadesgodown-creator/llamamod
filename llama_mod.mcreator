@@ -890,6 +890,15 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "llamafort"
+    },
+    {
+      "name": "House",
+      "type": "structure",
+      "sortid": 86,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "house"
     }
   ],
   "variable_elements": [],
