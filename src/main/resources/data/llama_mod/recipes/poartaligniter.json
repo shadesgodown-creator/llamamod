@@ -1,0 +1,19 @@
+{
+  "group": "llama_mod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "llama_mod:llamastone_dust_dust"
+    },
+    {
+      "item": "minecraft:stick"
+    },
+    {
+      "item": "minecraft:stick"
+    }
+  ],
+  "result": {
+    "item": "llama_mod:llamaland",
+    "count": 1
+  }
+}

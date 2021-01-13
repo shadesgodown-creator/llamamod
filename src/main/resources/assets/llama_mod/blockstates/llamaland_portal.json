@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "axis=z": {
+      "model": "llama_mod:block/llamaland_portal_ew"
+    },
+    "axis=x": {
+      "model": "llama_mod:block/llamaland_portal_ns"
+    }
+  }
+}

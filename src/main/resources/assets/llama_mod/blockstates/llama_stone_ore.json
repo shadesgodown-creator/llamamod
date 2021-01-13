@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "llama_mod:block/llama_stone_ore"
+    }
+  }
+}

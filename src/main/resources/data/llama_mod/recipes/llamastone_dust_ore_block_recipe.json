@@ -1,0 +1,42 @@
+{
+  "group": "llama_mod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "llama_mod:llamastone_dust_dust"
+    },
+    "1": {
+      "item": "llama_mod:llamastone_dust_dust"
+    },
+    "2": {
+      "item": "llama_mod:llamastone_dust_dust"
+    },
+    "3": {
+      "item": "llama_mod:llamastone_dust_dust"
+    },
+    "4": {
+      "item": "llama_mod:llamastone_dust_dust"
+    },
+    "5": {
+      "item": "llama_mod:llamastone_dust_dust"
+    },
+    "6": {
+      "item": "llama_mod:llamastone_dust_dust"
+    },
+    "7": {
+      "item": "llama_mod:llamastone_dust_dust"
+    },
+    "8": {
+      "item": "llama_mod:llamastone_dust_dust"
+    }
+  },
+  "result": {
+    "item": "llama_mod:llamastone_dust_block",
+    "count": 1
+  }
+}

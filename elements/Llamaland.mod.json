@@ -1,0 +1,47 @@
+{
+  "_fv": 13,
+  "_type": "dimension",
+  "definition": {
+    "portalFrame": {
+      "value": "CUSTOM:Llamablock"
+    },
+    "portalParticles": {
+      "value": "SPIT"
+    },
+    "portalLuminance": 0.06999999999999999,
+    "portalSound": {
+      "value": "block.portal.ambient"
+    },
+    "igniterName": "Llamaland Portal Igniter",
+    "igniterTab": {
+      "value": "CUSTOM:Llamacreativetab"
+    },
+    "texture": "llama_wand",
+    "portalTexture": "llama_block_side",
+    "enablePortal": true,
+    "biomesInDimension": [
+      {
+        "value": "CUSTOM:Llamabiome"
+      }
+    ],
+    "worldGenType": "Normal world gen",
+    "mainFillerBlock": {
+      "value": "Blocks.STONE#0"
+    },
+    "fluidBlock": {
+      "value": "CUSTOM:Manase"
+    },
+    "airColor": {
+      "value": -103,
+      "falpha": 0.0
+    },
+    "canRespawnHere": true,
+    "hasFog": false,
+    "hasWeather": true,
+    "isDark": false,
+    "doesWaterVaporize": true,
+    "sleepResult": "ALLOW",
+    "hasSkyLight": false,
+    "imitateOverworldBehaviour": false
+  }
+}

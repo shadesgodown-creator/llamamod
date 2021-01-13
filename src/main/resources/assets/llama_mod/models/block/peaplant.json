@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "llama_mod:blocks/pea_plant",
+    "particle": "llama_mod:blocks/pea_plant"
+  }
+}

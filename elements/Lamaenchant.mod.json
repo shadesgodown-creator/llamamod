@@ -1,0 +1,17 @@
+{
+  "_fv": 13,
+  "_type": "enchantment",
+  "definition": {
+    "name": "lamalaty",
+    "type": "ALL",
+    "rarity": "VERY_RARE",
+    "minLevel": 30,
+    "maxLevel": 60,
+    "damageModifier": 22,
+    "compatibleEnchantments": [],
+    "compatibleItems": [],
+    "isTreasureEnchantment": true,
+    "isCurse": false,
+    "isAllowedOnBooks": true
+  }
+}

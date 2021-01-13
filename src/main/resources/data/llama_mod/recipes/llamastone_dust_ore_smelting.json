@@ -1,0 +1,12 @@
+{
+  "group": "llama_mod",
+  "type": "minecraft:smelting",
+  "experience": 0.07,
+  "cookingtime": 200,
+  "ingredient": {
+    "item": "llama_mod:llamastone_dust_ore"
+  },
+  "result": {
+    "item": "llama_mod:llamastone_dust_dust"
+  }
+}

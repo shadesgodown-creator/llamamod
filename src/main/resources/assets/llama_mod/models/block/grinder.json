@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "llama_mod:blocks/grinder_but",
+    "up": "llama_mod:blocks/grinder",
+    "north": "llama_mod:blocks/side_grinder",
+    "east": "llama_mod:blocks/side_grinder",
+    "south": "llama_mod:blocks/side_grinder",
+    "west": "llama_mod:blocks/side_grinder",
+    "particle": "llama_mod:blocks/grinder_but"
+  }
+}

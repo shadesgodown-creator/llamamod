@@ -1,0 +1,19 @@
+{
+  "group": "llama_mod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:milk_bucket"
+    },
+    "1": {
+      "item": "minecraft:egg"
+    }
+  },
+  "result": {
+    "item": "llama_mod:manase",
+    "count": 1
+  }
+}

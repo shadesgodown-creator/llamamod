@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "llama_mod:blocks/top_cooker",
+    "up": "llama_mod:blocks/top_cooker",
+    "north": "llama_mod:blocks/side_cooker",
+    "east": "llama_mod:blocks/side_cooker",
+    "south": "llama_mod:blocks/side_cooker",
+    "west": "llama_mod:blocks/side_cooker",
+    "particle": "llama_mod:blocks/top_cooker"
+  }
+}

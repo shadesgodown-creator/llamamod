@@ -1,0 +1,67 @@
+{
+  "_fv": 13,
+  "_type": "gui",
+  "definition": {
+    "type": 1,
+    "width": 176,
+    "height": 166,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 0,
+    "renderBgLayer": true,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "label",
+        "data": {
+          "text": "grinder",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "grinder",
+          "x": 192,
+          "y": 45
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 0,
+          "disableStackInteraction": false,
+          "dropItemsWhenNotBound": true,
+          "name": "Slot #0",
+          "x": 142,
+          "y": 70
+        }
+      },
+      {
+        "type": "outputslot",
+        "data": {
+          "id": 1,
+          "disableStackInteraction": false,
+          "dropItemsWhenNotBound": true,
+          "name": "Slot #1",
+          "x": 258,
+          "y": 71
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "grind",
+          "onClick": {
+            "name": "Noderscript"
+          },
+          "width": 50,
+          "height": 20,
+          "name": "grind",
+          "x": 183,
+          "y": 76
+        }
+      }
+    ]
+  }
+}

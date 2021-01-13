@@ -1,0 +1,16 @@
+{
+  "group": "llama_mod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:porkchop"
+    }
+  },
+  "result": {
+    "item": "llama_mod:hamsmall",
+    "count": 9
+  }
+}

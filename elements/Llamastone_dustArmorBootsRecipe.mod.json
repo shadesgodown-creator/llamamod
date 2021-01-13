@@ -1,0 +1,46 @@
+{
+  "_fv": 13,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Llamastone_dustDust"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Llamastone_dustDust"
+      },
+      {
+        "value": "CUSTOM:Llamastone_dustDust"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Llamastone_dustDust"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:Llamastone_dustArmor.boots"
+    },
+    "name": "llamastone_dust_armor_boots_recipe",
+    "namespace": "mod"
+  }
+}

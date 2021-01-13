@@ -1,0 +1,19 @@
+{
+  "group": "llama_mod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:wheat"
+    },
+    "1": {
+      "item": "minecraft:wheat"
+    }
+  },
+  "result": {
+    "item": "llama_mod:pasta",
+    "count": 1
+  }
+}

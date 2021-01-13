@@ -1,0 +1,57 @@
+{
+  "_fv": 13,
+  "_type": "armor",
+  "definition": {
+    "enableHelmet": true,
+    "textureHelmet": "llamastone_dust_head",
+    "enableBody": true,
+    "textureBody": "llamastone_dust_body",
+    "enableLeggings": true,
+    "textureLeggings": "llamastone_dust_leggings",
+    "enableBoots": true,
+    "textureBoots": "llamastone_dust_boots",
+    "creativeTab": {
+      "value": "CUSTOM:Llamacreativetab"
+    },
+    "armorTextureFile": "llamastone_dust",
+    "helmetName": "Llamastone_dust Helmet",
+    "bodyName": "Llamastone_dust Chestplate",
+    "leggingsName": "Llamastone_dust Leggings",
+    "bootsName": "Llamastone_dust Boots",
+    "helmetSpecialInfo": [],
+    "bodySpecialInfo": [],
+    "leggingsSpecialInfo": [],
+    "bootsSpecialInfo": [],
+    "helmetModelName": "Default",
+    "helmetModelPart": "Helmet",
+    "helmetModelTexture": "From armor",
+    "bodyModelName": "Default",
+    "bodyModelPart": "Body",
+    "armsModelPartL": "Arms L",
+    "armsModelPartR": "Arms R",
+    "bodyModelTexture": "From armor",
+    "leggingsModelName": "Default",
+    "leggingsModelPartL": "Leggings L",
+    "leggingsModelPartR": "Leggings R",
+    "leggingsModelTexture": "From armor",
+    "bootsModelName": "Default",
+    "bootsModelPartL": "Boots L",
+    "bootsModelPartR": "Boots R",
+    "bootsModelTexture": "From armor",
+    "maxDamage": 2,
+    "damageValueHelmet": 0,
+    "damageValueBody": 1,
+    "damageValueLeggings": 1,
+    "damageValueBoots": 0,
+    "enchantability": 1,
+    "toughness": 0.0,
+    "equipSound": {
+      "value": ""
+    },
+    "repairItems": [
+      {
+        "value": "CUSTOM:Llamastone_dustDust"
+      }
+    ]
+  }
+}

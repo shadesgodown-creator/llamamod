@@ -1,0 +1,29 @@
+{
+  "display": {
+    "background": "minecraft:textures/block/stone.png",
+    "icon": {
+      "item": "llama_mod:llamacreativesecrititemllololgetitnow"
+    },
+    "title": {
+      "translate": "advancements.manaseswimer.title"
+    },
+    "description": {
+      "translate": "advancements.manaseswimer.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "manaseswimer": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "biome": "dark_forest"
+      }
+    }
+  },
+  "rewards": {
+    "experience": 20
+  }
+}

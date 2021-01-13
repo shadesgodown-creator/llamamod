@@ -1,0 +1,36 @@
+{
+  "group": "llama_mod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5",
+    "6 8"
+  ],
+  "key": {
+    "0": {
+      "item": "llama_mod:llama_stone_ingot"
+    },
+    "1": {
+      "item": "llama_mod:llama_stone_ingot"
+    },
+    "2": {
+      "item": "llama_mod:llama_stone_ingot"
+    },
+    "3": {
+      "item": "llama_mod:llama_stone_ingot"
+    },
+    "5": {
+      "item": "llama_mod:llama_stone_ingot"
+    },
+    "6": {
+      "item": "llama_mod:llama_stone_ingot"
+    },
+    "8": {
+      "item": "llama_mod:llama_stone_ingot"
+    }
+  },
+  "result": {
+    "item": "llama_mod:llama_stone_armor_leggings",
+    "count": 1
+  }
+}
