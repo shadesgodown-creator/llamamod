@@ -926,6 +926,50 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "opm"
+    },
+    {
+      "name": "Llamabank",
+      "type": "gui",
+      "sortid": 90,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "llamabank"
+    },
+    {
+      "name": "Onellamastone",
+      "type": "item",
+      "sortid": 91,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "onellamastone"
+    },
+    {
+      "name": "Llamabankproseger",
+      "type": "procedure",
+      "sortid": 91,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "llamabankproseger",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Llamabankblock",
+      "type": "block",
+      "sortid": 92,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "llamabankblock"
     }
   ],
   "variable_elements": [],
@@ -954,8 +998,8 @@
       "block.llama_mod.llamablock": "Llamablock",
       "item.llama_mod.llama_stone_armor_boots": "LlamaStone Boots",
       "item.llama_mod.llamagun": "Llama gun",
-      "item.llama_mod.llamaland": "Llamaland Portal Igniter",
       "advancements.manaseswimer.title": "do You like manays",
+      "item.llama_mod.llamaland": "Llamaland Portal Igniter",
       "item.llama_mod.pasta": "Pasta",
       "block.llama_mod.superlight": "Superlight",
       "item.llama_mod.llama_stone_pickaxe": "LlamaStone Pickaxe",
@@ -966,11 +1010,13 @@
       "item.llama_mod.llama_stone_armor_chestplate": "LlamaStone Chestplate",
       "biome.llama_mod.llamabiome": "Llamabiome",
       "block.llama_mod.llamastone_dust_ore": "Llamastone_dust Ore",
+      "block.llama_mod.llamabankblock": "Llamabankblock",
       "item.llama_mod.llamastone_dust_armor_helmet": "Llamastone_dust Helmet",
       "item.llama_mod.llamaspiter": "Llamaspiter",
       "block.llama_mod.cookingblock": "Cookingblock",
       "item.llama_mod.llama_stone_hoe": "LlamaStone Hoe",
       "item.llama_mod.llama_stone_sword": "LlamaStone Sword",
+      "item.llama_mod.onellamastone": "Onellamastone",
       "item.llama_mod.llama_stone_armor_helmet": "LlamaStone Helmet",
       "advancements.manaseswimer.descr": "swimng in manays",
       "block.llama_mod.peaplant": "Peaplant",
