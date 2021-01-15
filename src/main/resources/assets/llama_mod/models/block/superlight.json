@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "llama_mod:blocks/wight",
+    "up": "llama_mod:blocks/wight",
+    "north": "llama_mod:blocks/wight",
+    "east": "llama_mod:blocks/wight",
+    "south": "llama_mod:blocks/wight",
+    "west": "llama_mod:blocks/wight",
+    "particle": "llama_mod:blocks/wight"
+  }
+}
