@@ -1,6 +1,6 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "llama_mod:items/one_llama_coin"
+    "layer0": "llama_mod:items/ten_llama_coin"
   }
 }

@@ -3,9 +3,9 @@
   "_type": "item",
   "definition": {
     "renderType": 0,
-    "texture": "one_llama_coin",
+    "texture": "ten_llama_coin",
     "customModelName": "Normal",
-    "name": "Onellamastone",
+    "name": "Ten llama coins",
     "rarity": "COMMON",
     "creativeTab": {
       "value": "CUSTOM:Llamacreativetab"
