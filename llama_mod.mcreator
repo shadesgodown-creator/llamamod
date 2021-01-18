@@ -988,6 +988,219 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "onehundredllamacion"
+    },
+    {
+      "name": "Opm_dustDust",
+      "type": "item",
+      "sortid": 95,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "opm_dust_dust"
+    },
+    {
+      "name": "Opm_dustOre",
+      "type": "block",
+      "sortid": 96,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "opm_dust_ore"
+    },
+    {
+      "name": "Opm_dustBlock",
+      "type": "block",
+      "sortid": 97,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "opm_dust_block"
+    },
+    {
+      "name": "Opm_dustOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 98,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "opm_dust_ore_block_recipe"
+    },
+    {
+      "name": "Opm_dustBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 99,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "opm_dust_block_ore_recipe"
+    },
+    {
+      "name": "Opm_dustOreSmelting",
+      "type": "recipe",
+      "sortid": 100,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "opm_dust_ore_smelting"
+    },
+    {
+      "name": "Opm_dustPickaxe",
+      "type": "tool",
+      "sortid": 101,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "opm_dust_pickaxe"
+    },
+    {
+      "name": "Opm_dustAxe",
+      "type": "tool",
+      "sortid": 102,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "opm_dust_axe"
+    },
+    {
+      "name": "Opm_dustSword",
+      "type": "tool",
+      "sortid": 103,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "opm_dust_sword"
+    },
+    {
+      "name": "Opm_dustShovel",
+      "type": "tool",
+      "sortid": 104,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "opm_dust_shovel"
+    },
+    {
+      "name": "Opm_dustHoe",
+      "type": "tool",
+      "sortid": 105,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "opm_dust_hoe"
+    },
+    {
+      "name": "Opm_dustPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 106,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "opm_dust_pickaxe_recipe"
+    },
+    {
+      "name": "Opm_dustAxeRecipe",
+      "type": "recipe",
+      "sortid": 107,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "opm_dust_axe_recipe"
+    },
+    {
+      "name": "Opm_dustSwordRecipe",
+      "type": "recipe",
+      "sortid": 108,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "opm_dust_sword_recipe"
+    },
+    {
+      "name": "Opm_dustShovelRecipe",
+      "type": "recipe",
+      "sortid": 109,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "opm_dust_shovel_recipe"
+    },
+    {
+      "name": "Opm_dustHoeRecipe",
+      "type": "recipe",
+      "sortid": 110,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "opm_dust_hoe_recipe"
+    },
+    {
+      "name": "Opm_dustArmor",
+      "type": "armor",
+      "sortid": 111,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "opm_dust_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "Opm_dustArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 112,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "opm_dust_armor_helmet_recipe"
+    },
+    {
+      "name": "Opm_dustArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 113,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "opm_dust_armor_body_recipe"
+    },
+    {
+      "name": "Opm_dustArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 114,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "opm_dust_armor_leggings_recipe"
+    },
+    {
+      "name": "Opm_dustArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 115,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "opm_dust_armor_boots_recipe"
+    },
+    {
+      "name": "Opm112137778783979000043789366907396403206438274809326895",
+      "type": "item",
+      "sortid": 116,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "opm_112137778783979000043789366907396403206438274809326895"
+    },
+    {
+      "name": "Opmtab",
+      "type": "tab",
+      "sortid": 116,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "opmtab"
     }
   ],
   "variable_elements": [],
@@ -1001,6 +1214,7 @@
       "item.llama_mod.llamastone_dust_armor_leggings": "Llamastone_dust Leggings",
       "block.llama_mod.llama_stone_ore": "LlamaStone Ore",
       "item.llama_mod.peas": "Peas",
+      "item.llama_mod.opm_dust_axe": "Opm_dust Axe",
       "item.llama_mod.llamastone_dust_armor_boots": "Llamastone_dust Boots",
       "block.llama_mod.grinder": "Grinder",
       "item.llama_mod.llama_stone_axe": "LlamaStone Axe",
@@ -1008,18 +1222,22 @@
       "block.llama_mod.llamastone_dust_block": "Block of Llamastone_dust",
       "item.llama_mod.llama_stone_ingot": "LlamaStone",
       "block.llama_mod.llama_stone_block": "Block of LlamaStone",
+      "item.llama_mod.opm_112137778783979000043789366907396403206438274809326895": "Opm 1 1 2 1 3 7 7 7 8 7 8 3 9 7 9 0 0 0 0 4 3 7 8 9 3 6 6 9 0 7 3 9 6 4 0 3 2 0 6 4 3 8 2 7 4 8 0 9 3 2 6 8 9 5",
       "item.llama_mod.manase_bucket": "Manase Bucket",
       "item.llama_mod.llama_stone_shovel": "LlamaStone Shovel",
       "item.llama_mod.llamastone_dust_pickaxe": "Llamastone_dust Pickaxe",
       "itemGroup.tabllamacreativetab": "Llama Mod",
       "block.llama_mod.secondary_llama_block": "Llamablock",
       "block.llama_mod.llamablock": "Llamablock",
+      "block.llama_mod.opm_dust_block": "Block of Opm_dust",
+      "item.llama_mod.opm_dust_armor_helmet": "Opm_dust Helmet",
       "item.llama_mod.llama_stone_armor_boots": "LlamaStone Boots",
       "item.llama_mod.llamagun": "Llama gun",
       "item.llama_mod.llamaland": "Llamaland Portal Igniter",
       "advancements.manaseswimer.title": "do You like manays",
       "item.llama_mod.pasta": "Pasta",
       "block.llama_mod.superlight": "Superlight",
+      "item.llama_mod.opm_dust_sword": "Opm_dust Sword",
       "item.llama_mod.llama_stone_pickaxe": "LlamaStone Pickaxe",
       "enchantment.llama_mod.lamaenchant": "lamalaty",
       "item.llama_mod.llamastone_dust_hoe": "Llamastone_dust Hoe",
@@ -1027,14 +1245,19 @@
       "item.llama_mod.llamastone_dust_dust": "Llamastone_dust",
       "item.llama_mod.llama_stone_armor_chestplate": "LlamaStone Chestplate",
       "biome.llama_mod.llamabiome": "Llamabiome",
+      "itemGroup.tabopmtab": "Opm",
+      "block.llama_mod.opm_dust_ore": "Opm_dust Ore",
       "item.llama_mod.onehundredllamacion": "100 llama coins",
       "block.llama_mod.llamastone_dust_ore": "Llamastone_dust Ore",
       "block.llama_mod.llamabankblock": "Llamabankblock",
       "item.llama_mod.llamastone_dust_armor_helmet": "Llamastone_dust Helmet",
       "item.llama_mod.llamaspiter": "Llamaspiter",
+      "item.llama_mod.opm_dust_dust": "Opm_dust",
       "block.llama_mod.cookingblock": "Cookingblock",
       "item.llama_mod.llama_stone_hoe": "LlamaStone Hoe",
       "item.llama_mod.llama_stone_sword": "LlamaStone Sword",
+      "item.llama_mod.opm_dust_armor_leggings": "Opm_dust Leggings",
+      "item.llama_mod.opm_dust_armor_chestplate": "Opm_dust Chestplate",
       "item.llama_mod.onellamastone": "Onellamastone",
       "item.llama_mod.llama_stone_armor_helmet": "LlamaStone Helmet",
       "advancements.manaseswimer.descr": "swimng in manays",
@@ -1043,9 +1266,13 @@
       "item.llama_mod.llama_stone_armor_leggings": "LlamaStone Leggings",
       "item.llama_mod.tenllamacoin": "Ten llama coins",
       "item.llama_mod.llamastone_dust_armor_chestplate": "Llamastone_dust Chestplate",
+      "item.llama_mod.opm_dust_shovel": "Opm_dust Shovel",
       "item.llama_mod.llamastone_dust_sword": "Llamastone_dust Sword",
       "item.llama_mod.llamastone_dust_shovel": "Llamastone_dust Shovel",
-      "item.llama_mod.cookedllamachow": "Cookedllamachow"
+      "item.llama_mod.opm_dust_hoe": "Opm_dust Hoe",
+      "item.llama_mod.opm_dust_armor_boots": "Opm_dust Boots",
+      "item.llama_mod.cookedllamachow": "Cookedllamachow",
+      "item.llama_mod.opm_dust_pickaxe": "Opm_dust Pickaxe"
     }
   },
   "workspaceSettings": {

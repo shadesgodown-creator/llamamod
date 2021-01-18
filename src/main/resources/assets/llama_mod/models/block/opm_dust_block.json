@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "llama_mod:blocks/opm_dust_ore_block",
+    "particle": "llama_mod:blocks/opm_dust_ore_block"
+  }
+}
