@@ -1201,6 +1201,15 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "opmtab"
+    },
+    {
+      "name": "Opmfluid",
+      "type": "fluid",
+      "sortid": 117,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "opmfluid"
     }
   ],
   "variable_elements": [],
@@ -1213,10 +1222,11 @@
       "item.llama_mod.ivisbullit": "Ivisbullit",
       "item.llama_mod.llamastone_dust_armor_leggings": "Llamastone_dust Leggings",
       "block.llama_mod.llama_stone_ore": "LlamaStone Ore",
-      "item.llama_mod.peas": "Peas",
       "item.llama_mod.opm_dust_axe": "Opm_dust Axe",
+      "item.llama_mod.peas": "Peas",
       "item.llama_mod.llamastone_dust_armor_boots": "Llamastone_dust Boots",
       "block.llama_mod.grinder": "Grinder",
+      "fluid.opmfluid": "Opmfluid",
       "item.llama_mod.llama_stone_axe": "LlamaStone Axe",
       "item.llama_mod.uncookedllamachow": "Uncookedllamachow",
       "block.llama_mod.llamastone_dust_block": "Block of Llamastone_dust",
@@ -1252,6 +1262,7 @@
       "block.llama_mod.llamabankblock": "Llamabankblock",
       "item.llama_mod.llamastone_dust_armor_helmet": "Llamastone_dust Helmet",
       "item.llama_mod.llamaspiter": "Llamaspiter",
+      "item.llama_mod.opmfluid_bucket": "Opmfluid Bucket",
       "item.llama_mod.opm_dust_dust": "Opm_dust",
       "block.llama_mod.cookingblock": "Cookingblock",
       "item.llama_mod.llama_stone_hoe": "LlamaStone Hoe",

@@ -1,4 +1,7 @@
 {
   "replace": false,
-  "values": []
+  "values": [
+    "llama_mod:opmfluid",
+    "llama_mod:opmfluid_flowing"
+  ]
 }
